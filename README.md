@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: cams7-tests/hello-world-javascript-action@v1.1
+uses: cams7-tests/hello-world-javascript-action@v1.2
 with:
   who-to-greet: 'Pedro Silva'
